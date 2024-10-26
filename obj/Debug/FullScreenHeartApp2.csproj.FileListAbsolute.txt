@@ -1,0 +1,9 @@
+C:\Users\belec\source\repos\FullScreenHeartApp2\FullScreenHeartApp2\obj\Debug\FullScreenHeartApp2.csproj.AssemblyReference.cache
+C:\Users\belec\source\repos\FullScreenHeartApp2\FullScreenHeartApp2\obj\Debug\FullScreenHeartApp2.Properties.Resources.resources
+C:\Users\belec\source\repos\FullScreenHeartApp2\FullScreenHeartApp2\obj\Debug\FullScreenHeartApp2.csproj.GenerateResource.cache
+C:\Users\belec\source\repos\FullScreenHeartApp2\FullScreenHeartApp2\obj\Debug\FullScreenHeartApp2.csproj.CoreCompileInputs.cache
+C:\Users\belec\source\repos\FullScreenHeartApp2\FullScreenHeartApp2\bin\Debug\FullScreenHeartApp2.exe.config
+C:\Users\belec\source\repos\FullScreenHeartApp2\FullScreenHeartApp2\bin\Debug\FullScreenHeartApp2.exe
+C:\Users\belec\source\repos\FullScreenHeartApp2\FullScreenHeartApp2\bin\Debug\FullScreenHeartApp2.pdb
+C:\Users\belec\source\repos\FullScreenHeartApp2\FullScreenHeartApp2\obj\Debug\FullScreenHeartApp2.exe
+C:\Users\belec\source\repos\FullScreenHeartApp2\FullScreenHeartApp2\obj\Debug\FullScreenHeartApp2.pdb
